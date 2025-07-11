@@ -1,0 +1,2 @@
+export const ALBUM_ID = "30Perjew8HyGkdSmqguYyg";
+export const SPOTIFY_AUTH_TOKEN = 'BQD8FPIj6hOBZofS9EDHaet2v0-OF4pyWN7WHsjeN5gu21D3Eko2zKoTq4FVoj2APyPzzcDRGC7du32ntmcqJmKa27RxZFNbyJDIdauiVPXViRQ6sCTwCrkPKdkxVRXG69BzhvoMGCo';
